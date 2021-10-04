@@ -1,0 +1,19 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css");
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+.title {
+  color: rgb(5, 26, 5);
+  /* margin-left: 200px; */
+  text-align: center;
+}

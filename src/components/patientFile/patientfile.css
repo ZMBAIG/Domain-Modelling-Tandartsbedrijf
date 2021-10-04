@@ -1,0 +1,26 @@
+input {
+  font: 1em sans-serif;
+}
+.patient-container {
+  height: 100vh;
+  overflow: auto;
+}
+
+.patient-item {
+  width: 30%;
+  float: left;
+  margin: 20px;
+}
+
+.patient-card-container {
+  width: 40vw;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+.patient-info {
+  background-color: rgba(102, 115, 134, 0.9);
+  padding: 5px;
+  margin-top: 0;
+  border: inset;
+}
